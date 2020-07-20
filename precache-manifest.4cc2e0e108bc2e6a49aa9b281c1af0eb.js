@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e0e5ca97930d7f3129b64b02ae5de77",
+    "revision": "dd1e91ffc0ec75df1e0554ae72504dd6",
     "url": "/React-JS-acceder-y-modificar-API/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-JS-acceder-y-modificar-API/static/css/2.fc5a9450.chunk.css"
   },
   {
-    "revision": "3b1279706d0ccee94d5a",
+    "revision": "a6229ac2fd9580bf4f97",
     "url": "/React-JS-acceder-y-modificar-API/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-JS-acceder-y-modificar-API/static/js/2.a2d702c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b1279706d0ccee94d5a",
-    "url": "/React-JS-acceder-y-modificar-API/static/js/main.fbb5a634.chunk.js"
+    "revision": "a6229ac2fd9580bf4f97",
+    "url": "/React-JS-acceder-y-modificar-API/static/js/main.64e2495d.chunk.js"
   },
   {
     "revision": "d14fb556a660117a8438",
