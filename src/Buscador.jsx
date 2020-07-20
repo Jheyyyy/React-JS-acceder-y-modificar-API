@@ -16,9 +16,10 @@ class Buscador extends Component {
   busqueda1 = React.createRef();
   busqueda2 = React.createRef();
 
-  componentDidMount(){
+ /* componentDidMount(){
     this.handleCall()
   }
+  */
 
   handleCall = () => {
     var { User, Token, usuario_id, busquedaUser, busquedaToken, busquedaId } = this.state
